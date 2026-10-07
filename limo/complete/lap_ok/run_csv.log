@@ -1,0 +1,5 @@
+[INFO] [1791345278.432760987] [race_node_complete]: loading map /home/wj/LIMO_GAZEBO/ws_limo_humble/maps/track_newmap.yaml
+[INFO] [1791345278.437413841] [race_node_complete]: loaded 266 real wall boxes from world file
+[INFO] [1791345278.573451555] [race_node_complete]: path ready: 400 points, length 46.09 m, max speed 0.30 m/s, min speed 0.30 m/s, max |kappa|=1.093, min real-wall clearance on path=0.198 m
+[INFO] [1791345311.795910949] [race_node_complete]: lap 1 time: 33.12 s
+[INFO] [1791345464.703402774] [race_node_complete]: lap 2 time: 152.91 s
